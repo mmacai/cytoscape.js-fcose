@@ -31,7 +31,7 @@
   "homepage": "https://github.com/iVis-at-Bilkent/cytoscape.js-fcose",
   "devDependencies": {
     "babel-core": "^6.24.1",
-    "babel-loader": "^7.1.4",
+    "babel-loader": "^8.2.5",
     "babel-preset-env": "^1.5.1",
     "camelcase": "^6.2.0",
     "chai": "4.0.2",
